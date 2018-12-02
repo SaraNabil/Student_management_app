@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginLeft_et">25dp</dimen>
+    <dimen name="layout_marginRight_et">25dp</dimen>
+    <dimen name="layout_marginTop_et">30dp</dimen>
+    <dimen name="EditText_height">40dp</dimen>
+
+</resources>

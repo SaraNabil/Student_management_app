@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Student_management_app</string>
+    <string name="more">More</string>
+    <string name="view_all">View All</string>
+    <string name="modify_student">Modify Student</string>
+    <string name="view_student">View Student</string>
+    <string name="student_no">Student No. :</string>
+    <string name="student_name">Student Name :</string>
+    <string name="student_grade">Student Grade :</string>
+    <string name="add_student">Add Student</string>
+    <string name="delete_student">Delete Student</string>
+    <string name="welcome">Welcome</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="do_not_have_account">Do not have account ?</string>
+    <string name="sign_in">sign in</string>
+    <string name="name">name</string>
+    <string name="signup">Sign Up</string>
+    <string name="phone">phone</string>
+    <string name="create_new_user">Create New User</string>
+    <string name="sign_out">sign out</string>
+</resources>
